@@ -1,4 +1,4 @@
-# Material Design 动画
+# Material Design 颜色
 
 Material design重视动画效果，它反复强调一点：动画不只是装饰，它有含义，能表达元素、界面之间的关系，具备功能上的作用。
 
