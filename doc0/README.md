@@ -12,13 +12,8 @@ Material环境是基于三维立体空间，每一个处于界面显示的UI对�
 
 ### material 具有不同的x和y尺寸（以dp测量）和均匀的厚度（1dp）
 
-#### do
-
-![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F0B8v7jImPsDi-eEJlcFFMUzJXSlE%2Fwhatismaterial-materialproperties-physicalproperties-thickness-01-yes.png){:height="50%" width="50%"}
-
-#### don't
-
-![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F0B8v7jImPsDi-UXUtRnFHcEVKeVU%2Fwhatismaterial-materialproperties-physicalproperties-thickness-02-no.png){:height="50%" width="50%"}
+![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F0B8v7jImPsDi-eEJlcFFMUzJXSlE%2Fwhatismaterial-materialproperties-physicalproperties-thickness-01-yes.png)
+![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F0B8v7jImPsDi-UXUtRnFHcEVKeVU%2Fwhatismaterial-materialproperties-physicalproperties-thickness-02-no.png)
 
 
 

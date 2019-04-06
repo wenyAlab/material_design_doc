@@ -29,12 +29,8 @@
 
 ### 多个材质元素不能同时占据空间中的相同点。
 
-#### do
-![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F0B8v7jImPsDi-SlpSMkpDdVJKSEE%2Fwhatismaterial-properties-physical5.png){:height="50%" width="50%"}
-
-#### don't
-
-![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F0B8v7jImPsDi-OWpqdE16bkt5LWc%2Fwhatismaterial-properties-physical6.png){:height="50%" width="50%"}
+![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F0B8v7jImPsDi-SlpSMkpDdVJKSEE%2Fwhatismaterial-properties-physical5.png)
+![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F0B8v7jImPsDi-OWpqdE16bkt5LWc%2Fwhatismaterial-properties-physical6.png)
 
 
 ### 材料的非气体表现
