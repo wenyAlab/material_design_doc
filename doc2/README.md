@@ -41,7 +41,6 @@ Motion通过显示元素彼此之间的关系来帮助定位用户。
 Motion提供及时的反馈和用户操作的状态。
 
 ![](https://im.ezgif.com/tmp/ezgif-1-40b0c8a1a0a8.gif)
-
 ![](https://im.ezgif.com/tmp/ezgif-1-2045a2aa56b9.gif)
 
 ![](https://im.ezgif.com/tmp/ezgif-1-9e96d4afedf8.gif)

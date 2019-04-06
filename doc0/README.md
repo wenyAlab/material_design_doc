@@ -14,11 +14,11 @@ Material环境是基于三维立体空间，每一个处于界面显示的UI对�
 
 #### do
 
-![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F0B8v7jImPsDi-eEJlcFFMUzJXSlE%2Fwhatismaterial-materialproperties-physicalproperties-thickness-01-yes.png)
+![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F0B8v7jImPsDi-eEJlcFFMUzJXSlE%2Fwhatismaterial-materialproperties-physicalproperties-thickness-01-yes.png){:height="50%" width="50%"}
 
 #### don't
 
-![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F0B8v7jImPsDi-UXUtRnFHcEVKeVU%2Fwhatismaterial-materialproperties-physicalproperties-thickness-02-no.png)
+![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F0B8v7jImPsDi-UXUtRnFHcEVKeVU%2Fwhatismaterial-materialproperties-physicalproperties-thickness-02-no.png){:height="50%" width="50%"}
 
 
 
