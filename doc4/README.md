@@ -16,7 +16,7 @@ Material design重视动画效果，它反复强调一点：动画不只是装�
 
 所有可点击的元素，都应该有这样的反馈效果。通过这个动画，将点击的位置与所操作的元素关联起来，体现了Material design动画的功能性。
 
-### 出入场动画
+### 进出场动画
 
 ![](https://image.uisdc.com/wp-content/uploads/2014/12/b-6.gif)
 

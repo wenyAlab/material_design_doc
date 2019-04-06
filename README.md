@@ -3,11 +3,12 @@
 ##  目录
 
 1. 简介
-2. 材料
-3. 动画
-4. 颜色
-5. 组件
-6. 资料
+2. 环境
+3. 材料
+4. 动画
+5. 颜色
+6. 组件
+7. 资料
 
 
 ## Material Design 简介
@@ -25,9 +26,9 @@ Material Design在设计过程中对排版，网格，空间，比例，颜色�
 
 Material Design字面翻译的版本有很多。其中‘质感设计’“原质化设计”更为贴切。因为Material Design本是一种考虑事物本质的设计，将电子屏幕里的UI元素看成是一种不存在于现实世界的新的材质，并赋予它类似纸片与墨水的物理特性。因此Material Design并不是去拟物化的设计。许多人会将把扁平化与拟物化对立起来，其实两者并不是对立关系。扁平化其实也有纸片设计的元素，只不过缺少物理世界的立体感。
 
-### Material Design英文官网（ https://material.io/ ）
-### Material Design中文翻译文档（ https://www.mdui.org/design/# ）
-### Material Design中文指南GitHub（ https://github.com/zdhxiong/Material-Design-Chinese ）
+### [Material Design英文官网](https://material.io/)
+### [Material Design中文翻译文档](https://www.mdui.org/design/#)
+### [Material Design中文指南GitHub](https://github.com/zdhxiong/Material-Design-Chinese)
 
 
 ### 目的
@@ -40,11 +41,8 @@ Material Design字面翻译的版本有很多。其中‘质感设计’“原�
 鲜明，突出核心
 有意义的动画效果
 
-### 环境
 
-所有材料位于一个三维环境中（维度， 阴影， 层级）， 进行模拟光线照射给材料添加阴影，创造层次感
 
-Material环境是基于三维立体空间，每一个处于界面显示的UI对象都有一个三维坐标(x,y,z)，一般来说在手机平面显示的位置相对于用户来讲只有平面xOy，但是有了z轴的加入，用户视角就变得更加立体，每个Material 元素在 z 轴上占据一定的位置并且厚度默认只有1dp，厚度是其次，最重要的z轴是用来分层，进而实现更加有序或者更为复杂的交互设计。
 
 
 
