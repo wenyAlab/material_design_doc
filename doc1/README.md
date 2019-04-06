@@ -5,7 +5,7 @@
 不同高度的材料表面投射阴影。某一对象的“高度”决定了其具体“阴影”的表现形式。
 阴影也是用来标识一个可操作的组件与背景层是分离的。
 
-![](https://im.ezgif.com/tmp/ezgif-1-1671a61bb91f.gif){:="600px"}
+![](https://im.ezgif.com/tmp/ezgif-1-802516408132.gif)
 ![](https://im.ezgif.com/tmp/ezgif-1-692ec59778a8.gif)
 
 
@@ -16,20 +16,15 @@
 ![](https://im.ezgif.com/tmp/ezgif-1-080fb64013e7.gif)
 ![](https://im.ezgif.com/tmp/ezgif-1-843ec50ad389.gif)
 
-![](https://im.ezgif.com/tmp/ezgif-1-54448913b028.gif){:="600px"}
+![](https://im.ezgif.com/tmp/ezgif-1-621b345600a0.gif)
 
 
 ## 物理特性
 
 ### 材料是实体的，用户输入和交互不能穿透材料。
 
-#### do
-
-![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1bQO9zhMloD3HtBikFXTYxmTLJ_zFRiIV%2Fmaterialsurfaceproperties-do-physical.png){:height="50%" width="50%"}
-
-#### don't
-
-![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1Rwp75SKdPmArFS5r8_WQsfAwJYzFsaYc%2Fmaterialsurfaceproperties-dont-passthrough.png){:height="50%" width="50%"}
+![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1bQO9zhMloD3HtBikFXTYxmTLJ_zFRiIV%2Fmaterialsurfaceproperties-do-physical.png)
+![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1Rwp75SKdPmArFS5r8_WQsfAwJYzFsaYc%2Fmaterialsurfaceproperties-dont-passthrough.png)
 
 
 ### 多个材质元素不能同时占据空间中的相同点。
