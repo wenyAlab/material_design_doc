@@ -2,6 +2,51 @@
 
 Material design重视动画效果，它反复强调一点：动画不只是装饰，它有含义，能表达元素、界面之间的关系，具备功能上的作用。
 
+Motion有助于使UI富有表现力且易于使用。
+
+## 原则
+
+1. 传递信息
+
+![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1CgRJlSiQ-luNPN3s04GsUjUuuehZAaA5%2F01-informative.mp4)
+
+Motion显示元素之间的空间和层次关系，哪些操作可用，以及如果采取操作将会发生什么。
+
+2. 吸引注意力
+
+![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F16e7N5IU8kficklVRr4KSiwABVqtqr294%2F02-attention.mp4)
+
+Motion将注意力集中在重要的事情上，而不会造成不必要的干扰。
+
+
+2. 具有表现力
+
+![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1G2_sgtb_rA15LogDDRQJ0UZk5k6f7Ib5%2F03-tone-v2.mp4)
+
+Motion为常见的互动增添特色，表达个性和风格。
+
+
+## 使用案例
+
+### 层次结构
+
+Motion通过显示元素彼此之间的关系来帮助定位用户。
+
+![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1DenoCsHNb_H1S1zErzmGCxhz6wjmdO8y%2F01-hierarchy-parentchild.mp4)
+
+具体表现为’收件箱与邮件之间的层次结构‘
+
+### 反馈与状态
+
+Motion提供及时的反馈和用户操作的状态。
+
+![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1G-MNFco8ApWpcnN5hkbiS2QnK1f1jW-Z%2F02-feedback-password.mp4)
+
+![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1EYDzhOE6IR7AET2dU0stNl4vDpjcNQeJ%2F02-feedback-loading.mp4)
+
+![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F11YQJCcOncFpVNUXKmmTgvXb9MrlXt60c%2F02-feedback-touch.mp4)
+
+
 ### easing
 
 ![](https://image.uisdc.com/wp-content/uploads/2014/12/b-2.gif)
@@ -10,8 +55,7 @@ Material design重视动画效果，它反复强调一点：动画不只是装�
 
 ### 水波反馈
 
-![](https://image.uisdc.com/wp-content/uploads/2014/12/b-3.gif)
-![](https://image.uisdc.com/wp-content/uploads/2014/12/b-4.gif)
+![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F11Gpm653O4qC39MSQAyv9sWn16Bm6f4h6%2Fmaterialmovement-z-interaction.mp4)
 ![](https://image.uisdc.com/wp-content/uploads/2014/12/b-5.gif)
 
 所有可点击的元素，都应该有这样的反馈效果。通过这个动画，将点击的位置与所操作的元素关联起来，体现了Material design动画的功能性。
@@ -24,61 +68,4 @@ Material design重视动画效果，它反复强调一点：动画不只是装�
 
 
 
-```
-$ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.25.2/install.sh | bash
-```
-
-nvm 的全称是 **Node Version Manager**，之所以需要这个工具，是因为 Node.js 的各种特性都没有稳定下来，所以我们经常由于老项目或尝新的原因，需要切换各种版本。
-
-安装完成后，你的 shell 里面应该就有个 nvm 命令了，调用它试试
-
-```
-$ nvm
-```
-
-当看到有输出时，则 nvm 安装成功。
-
-### 安装 Node.js
-
-使用 nvm 的命令安装 Node.js 最新稳定版，现在是 `v0.12.3`。
-
-```
-$ nvm install 0.12
-```
-
-安装完成后，查看一下
-
-```
-$ nvm ls
-```
-
-这时候可以看到自己安装的所有 Node.js 版本，输出应如下：
-
-![](https://raw.githubusercontent.com/alsotang/node-lessons/master/lesson0/1.png)
-
-（图1）
-
-那个绿色小箭头的意思就是现在正在使用的版本，我这里是 `v0.10.29`。我还安装了 `v0.11.14`，但它并非我当前使用的版本。
-
-如果你那里没有出现绿色小箭头的话，告诉 nvm 你要使用 `0.12.x` 版本
-
-```
-$ nvm use 0.12
-```
-
-然后再次查看，这时候小箭头应该出现了。
-
-OK，我们在终端中输入
-
-```
-$ node
-```
-
-REPL(read–eval–print loop) 应该就出来了，那我们就成功了。
-
-随便敲两行命令玩玩吧。
-
-比如 `> while (true) {}`，这时你的 CPU 应该会飚高。
-
-### 完善安装
 

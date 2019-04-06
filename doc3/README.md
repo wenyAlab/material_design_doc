@@ -1,84 +1,35 @@
 # Material Design 颜色
 
-Material design重视动画效果，它反复强调一点：动画不只是装饰，它有含义，能表达元素、界面之间的关系，具备功能上的作用。
+Material Design颜色系统可用于创建自己风格的颜色主题。
 
-### easing
+## 原则
 
-![](https://image.uisdc.com/wp-content/uploads/2014/12/b-2.gif)
+1. 分级突出
 
-动画要贴近真实世界，就要重视easing。物理世界中的运动和变化都是有加速和减速过程的，忽然开始、忽然停止的匀速动画显得机械而不真实。考虑动画的easing，要先考虑它在现实世界中的运动规律。
+![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1CgRJlSiQ-luNPN3s04GsUjUuuehZAaA5%2F01-informative.mp4)
 
-### 水波反馈
+颜色表示哪些元素是交互式的，它们与其他元素的关系以及它们的突出程度。重要因素应该是最突出的。颜色也应该是最突出的。
 
-![](https://image.uisdc.com/wp-content/uploads/2014/12/b-3.gif)
-![](https://image.uisdc.com/wp-content/uploads/2014/12/b-4.gif)
-![](https://image.uisdc.com/wp-content/uploads/2014/12/b-5.gif)
+2. 清晰易读
 
-所有可点击的元素，都应该有这样的反馈效果。通过这个动画，将点击的位置与所操作的元素关联起来，体现了Material design动画的功能性。
+![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F16e7N5IU8kficklVRr4KSiwABVqtqr294%2F02-attention.mp4)
 
-### 出入场动画
+文本和重要元素（如图标）在出现在彩色背景上时，应符合所有屏幕和设备类型的易读性标准。
 
-![](https://image.uisdc.com/wp-content/uploads/2014/12/b-6.gif)
+2. 具有表现力
 
-通过过渡动画，表达界面之间的空间与层级关系，并且跨界面传递信息。
+![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1G2_sgtb_rA15LogDDRQJ0UZk5k6f7Ib5%2F03-tone-v2.mp4)
 
+通过色彩来强化风格。
 
+## 使用案例
 
-```
-$ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.25.2/install.sh | bash
-```
+![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F181H5cwjIitZNB5aMubkSHjqfBAr8mos2%2Fcolor-colorsystem-schemecreation-altprimarysecondary-4.png)
 
-nvm 的全称是 **Node Version Manager**，之所以需要这个工具，是因为 Node.js 的各种特性都没有稳定下来，所以我们经常由于老项目或尝新的原因，需要切换各种版本。
+![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1SDGX3-el7fSZgwPwWVnMr7ri00_YV-Al%2Fcolor-colorsystem-schemecreation-altprimarysecondary-6.png)
 
-安装完成后，你的 shell 里面应该就有个 nvm 命令了，调用它试试
+![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1TeQ0O5CvwY52_xe4UTvJG_fqFfBR2F7d%2Fcolor-applyingcolorui-bars-differentiating-reply.png)
 
-```
-$ nvm
-```
+![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1H9ZMgMwTh3usXcum_NtXvF-BC5XDwDoo%2Fcolor-applyingcolorui-surfaces-surfaceelevations-crane.png)
 
-当看到有输出时，则 nvm 安装成功。
-
-### 安装 Node.js
-
-使用 nvm 的命令安装 Node.js 最新稳定版，现在是 `v0.12.3`。
-
-```
-$ nvm install 0.12
-```
-
-安装完成后，查看一下
-
-```
-$ nvm ls
-```
-
-这时候可以看到自己安装的所有 Node.js 版本，输出应如下：
-
-![](https://raw.githubusercontent.com/alsotang/node-lessons/master/lesson0/1.png)
-
-（图1）
-
-那个绿色小箭头的意思就是现在正在使用的版本，我这里是 `v0.10.29`。我还安装了 `v0.11.14`，但它并非我当前使用的版本。
-
-如果你那里没有出现绿色小箭头的话，告诉 nvm 你要使用 `0.12.x` 版本
-
-```
-$ nvm use 0.12
-```
-
-然后再次查看，这时候小箭头应该出现了。
-
-OK，我们在终端中输入
-
-```
-$ node
-```
-
-REPL(read–eval–print loop) 应该就出来了，那我们就成功了。
-
-随便敲两行命令玩玩吧。
-
-比如 `> while (true) {}`，这时你的 CPU 应该会飚高。
-
-### 完善安装
-
+![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1oCXUwiC-RwYb7Kax3c9EXB32-giyK9KY%2Fcolor-applyingcolorui-surfaces-surfaceelevations-shrine.png)
