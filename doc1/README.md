@@ -12,7 +12,7 @@
 ## 内容
 ### 内容不会为材质添加厚度，内容表达时不是单独的层。
 
-<iframe height=498 width=510 src="https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1xQcc7grFo-KO3yr2ba9XAmKmKasBNwa6%2Fmaterialcontent-shapecolor.mp4" frameborder=0 allowfullscreen></iframe>
+<iframe height="498" width="510" src="https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1xQcc7grFo-KO3yr2ba9XAmKmKasBNwa6%2Fmaterialcontent-shapecolor.mp4" frameborder="0" ></iframe>
 
 <video controls="controls" src="https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1xQcc7grFo-KO3yr2ba9XAmKmKasBNwa6%2Fmaterialcontent-shapecolor.mp4" width="100%"></video>
 
