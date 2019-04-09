@@ -12,6 +12,7 @@
 ## 内容
 ### 内容不会为材质添加厚度，内容表达时不是单独的层。
 
+<video controls="controls" src="https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1xQcc7grFo-KO3yr2ba9XAmKmKasBNwa6%2Fmaterialcontent-shapecolor.mp4" width="100%"></video>
 
 ![](https://im.ezgif.com/tmp/ezgif-1-080fb64013e7.gif)
 ![](https://im.ezgif.com/tmp/ezgif-1-843ec50ad389.gif)
