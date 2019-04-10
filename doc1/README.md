@@ -20,6 +20,7 @@
 ![](https://im.ezgif.com/tmp/ezgif-1-843ec50ad389.gif)
 
 ![](https://im.ezgif.com/tmp/ezgif-1-621b345600a0.gif)
+![](./img/2.gif)
 
 
 ## 物理特性
