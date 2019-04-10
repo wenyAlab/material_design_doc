@@ -35,8 +35,8 @@
 
 ### 材料的非气体表现
 
-![](./img/gas.jpg)
-![](./img/normal.jpg)
+![](./img/gas.gif)
+![](./img/normal.gif)
 
 
 ### 材料非流体表现

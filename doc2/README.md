@@ -55,7 +55,7 @@ Motion提供及时的反馈和用户操作的状态。
 
 ### 水波反馈
 
-![](./img/doc_action.gif)
+![](./img/dot_action.gif)
 ![](https://image.uisdc.com/wp-content/uploads/2014/12/b-5.gif)
 
 所有可点击的元素，都应该有这样的反馈效果。通过这个动画，将点击的位置与所操作的元素关联起来，体现了Material design动画的功能性。
