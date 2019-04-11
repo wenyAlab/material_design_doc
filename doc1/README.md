@@ -23,14 +23,14 @@
 
 ### 材料是实体的，用户输入和交互不能穿透材料。
 
-![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1bQO9zhMloD3HtBikFXTYxmTLJ_zFRiIV%2Fmaterialsurfaceproperties-do-physical.png)
-![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F1Rwp75SKdPmArFS5r8_WQsfAwJYzFsaYc%2Fmaterialsurfaceproperties-dont-passthrough.png)
+![](./img/111.jpg)
+![](./img/2222.jpg)
 
 
 ### 多个材质元素不能同时占据空间中的相同点。
 
-![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F0B8v7jImPsDi-SlpSMkpDdVJKSEE%2Fwhatismaterial-properties-physical5.png)
-![](https://storage.googleapis.com/spec-host-backup/mio-design%2Fassets%2F0B8v7jImPsDi-OWpqdE16bkt5LWc%2Fwhatismaterial-properties-physical6.png)
+![](./img/3333.jpg)
+![](./img/4444.jpg)
 
 
 ### 材料的非气体表现

@@ -49,9 +49,14 @@ Motion提供及时的反馈和用户操作的状态。
 ## 速度
 
 ### 原则
-1. 可控
-2. 过渡性
-3. easing
+1. 过渡性
+2. easing
+
+
+### 过渡
+
+![](./img/duration.gif)
+
 
 ### easing
 
